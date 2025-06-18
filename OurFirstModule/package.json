@@ -1,0 +1,16 @@
+{
+  "name": "ourfirstmodule",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  },
+  "main": "in-memory-storage.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
